@@ -16,5 +16,7 @@ public class M1 {
      		 {
 			 System.out.println(a1[i]);
 			 }
+		
+		System.out.println("amit");
 	}
 }
